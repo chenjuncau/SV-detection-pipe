@@ -116,7 +116,6 @@ https://www.cog-genomics.org/plink/2.0/formats
 
 
 
-/data/cram/01653NQMB84R9B6KG41DSYF3B6.filtered.gg7.bam   -->  L58_brittle
-/data/cram/01653PH5QG5AF8D7MW5WZRFTM7.filtered.gg7.bam   -->  L58_normal
+
 
 
